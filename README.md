@@ -5,7 +5,7 @@
 - Starting from 09.2022 I am very serious and disciplined in my studies. And on this site I will celebrate my successes.
 - 💞️ I will be happy to consider all offers for training in practice.
 - 📫 How to reach me: discord: Histi#2066 , gmail: histi954@gmail.com
-
+- https://www.codewars.com/users/Greedy_Python/badges/large
 <!---
 histi954/histi954 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
